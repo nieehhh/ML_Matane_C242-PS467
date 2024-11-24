@@ -5,7 +5,7 @@
 Team ID : C242-PS467
 
 Our Member:
-1. (ML) Fitrahuda Aulia (M318B4KY0431) - Sultan Ageng Tirtayasa University
+1. (ML) Alvin Mubarok (M318B4KY0431) - Sultan Ageng Tirtayasa University
 2. (ML) Muhamad Bagaskara (M318B4KY2624) - Sultan Ageng Tirtayasa University
 3. (ML) Kemal Mohamad Husni Tahir (M318B4KY2163) - Sultan Ageng Tirtayasa University
 
