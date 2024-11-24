@@ -11,7 +11,7 @@ Our Member:
 
 ## Matane
 Matane is a machine learning-based eye classification system designed to classify specific eye conditions from medical images. 
-This app aims to support healthcare professionals in making faster and more accurate diagnoses. The initial release includes the following key features:
+This app aims to support healthcare professionals in making faster and more accurate diagnoses.
 ### Eye Condition Claafication
    - Cataract
    - Diabetic Retinopathy
